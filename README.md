@@ -25,7 +25,8 @@ Developed as a project for the Back-end Course on Codecademy.
 ## Features
 To-do list:
 - [x] Implement all Prerequisites;
-- [ ] Have the player start on a random location that’s not the upper-left corner.
+- [x] Have the player start on a random location that’s not the upper-left corner.
+- [x] The player has the opportunity to replay the game without having to run it again.
 - [ ] Create a “hard mode” where one or more holes are added after certain turns.
 - [ ] Improve your game’s graphics and interactivity in the terminal. 
 - [ ] Create a field validator to ensure that the field generated can actually be solved. 
